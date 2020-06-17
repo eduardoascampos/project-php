@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+/* TOPBAR */
+
+.topBar {
+    padding: 3px 0;
+    background-color: #697A21;
+}
+
+/* NAVBAR */
+
+/* LOGO */
+.logo {
+    background-image: url("../imgs/logo.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100px;
+    width: 75px;
+
+}
+
+/* INFOFOOTER */
+
+.infoFooter {
+    height: 370px;
+    background-color: #1c7430;
+}
+
+/* FOOTER */
+
+.footer {
+    background-color: #0c5460;
+}

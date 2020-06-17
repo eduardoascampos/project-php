@@ -1,0 +1,30 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="views/css/bootstrap.min.css">
+    <link rel="stylesheet" href="views/css/global.css">
+</head>
+<body>
+
+<div class="topBar"></div>
+<!-- nav -->
+<nav class="navbar container-fluid">
+    <div class="container">
+    <div class="row">
+
+        <div class="col"> <div class="logo"></div></div>
+        <div class="col">
+            <a href="">Home</a>
+            <a href="">Home</a>
+            <a href=""></a>
+
+        </div>
+
+    </div>
+    </div>
+</nav>
+<!-- endnav -->
+
+<section ></section>
